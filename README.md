@@ -9,7 +9,7 @@
 
 
 - 👨🏽‍💻  I’m searching for work :wink:.
-- 🌱  I’m currently learning Full Stack Development with Angular and Asp.Net Mvc. 
+- 🌱  I’m currently learning more of Asp.Net Mvc. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: https://www.linkedin.com/in/mauro-parente-a25041274/
 
